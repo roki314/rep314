@@ -6,4 +6,6 @@ github tst
 - dopisuje plik cos-tam-b1 ...
 - dopisany 512o-tst1.md
 
+- tst new feature
+
 xx
